@@ -1,0 +1,17 @@
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.Tests.deps.json
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.Tests.runtimeconfig.json
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.Tests.runtimeconfig.dev.json
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.Tests.dll
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.Tests.pdb
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.dll
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\bin\Debug\netcoreapp2.2\PrimeService.pdb
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.csprojAssemblyReference.cache
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.csproj.CoreCompileInputs.cache
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.AssemblyInfoInputs.cache
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.AssemblyInfo.cs
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.csproj.CopyComplete
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.dll
+C:\Users\infodev5\Documents\unit-testing-using-dotnet-test\PrimeService.Tests\obj\Debug\netcoreapp2.2\PrimeService.Tests.pdb
